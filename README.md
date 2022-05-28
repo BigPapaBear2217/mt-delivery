@@ -1,8 +1,6 @@
 # mt-delivery
 Simple delivery job for QBCore 
 
-<img='https://cdn.discordapp.com/attachments/921208909115564044/980128569445449778/unknown.png'/>
-
 # Preview
 https://youtu.be/Y75XtLfvsyI
 
