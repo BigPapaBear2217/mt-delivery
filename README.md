@@ -2,7 +2,7 @@
 Simple delivery job for QBCore 
 
 # Preview
-https://youtu.be/Y75XtLfvsyI
+https://youtu.be/-xsnO4FDd3U
 
 # Installation
 
