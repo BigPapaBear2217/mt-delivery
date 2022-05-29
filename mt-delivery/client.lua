@@ -53,34 +53,34 @@ end)
 function ExportDeliveryTarget()
     local prob = math.random(1, 10)
 
-    if prob >= 1 then
+    if prob == 1 then
         SetNewWaypoint(Config.DeliveryLoc1)
         ExportDeliveryTarget1()
-    elseif prob >= 2 then
+    elseif prob == 2 then
         SetNewWaypoint(Config.DeliveryLoc2)
         ExportDeliveryTarget2()
-    elseif prob >= 3 then
+    elseif prob == 3 then
         SetNewWaypoint(Config.DeliveryLoc3)
         ExportDeliveryTarget3()
-    elseif prob >= 4 then
+    elseif prob == 4 then
         SetNewWaypoint(Config.DeliveryLoc4)
         ExportDeliveryTarget4()
-    elseif prob >= 5 then
+    elseif prob == 5 then
         SetNewWaypoint(Config.DeliveryLoc5)
         ExportDeliveryTarget5()
-    elseif prob >= 6 then
+    elseif prob == 6 then
         SetNewWaypoint(Config.DeliveryLoc6)
         ExportDeliveryTarget6()
-    elseif prob >= 7 then
+    elseif prob == 7 then
         SetNewWaypoint(Config.DeliveryLoc7)
         ExportDeliveryTarget7()
-    elseif prob >= 8 then
+    elseif prob == 8 then
         SetNewWaypoint(Config.DeliveryLoc8)
         ExportDeliveryTarget8()
-    elseif prob >= 9 then
+    elseif prob == 9 then
         SetNewWaypoint(Config.DeliveryLoc9)
         ExportDeliveryTarget9()
-    elseif prob >= 10 then
+    elseif prob == 10 then
         SetNewWaypoint(Config.DeliveryLoc10)
         ExportDeliveryTarget10()
     end
